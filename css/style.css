@@ -2460,7 +2460,7 @@ blockquote {
 .achievement-card h4 {
   margin-bottom: 12px;
   font-size: 22px;
-  color: #d2b356;
+  color: ;
 }
 .achievement-card p {
   font-size: 16px;
@@ -2504,7 +2504,7 @@ blockquote {
 .founder-card h4 {
   margin-bottom: 0;
   font-size: 22px;
-  color: #d2b356;
+  color: #0472FD;
 }
 @media (max-width: 900px) {
   .founders-row {
@@ -2580,7 +2580,7 @@ blockquote {
   transition: color 0.2s;
 }
 .founder-modal-close:hover {
-  color: #d2b356;
+  color: #0472FD;
 }
 @media (max-width: 600px) {
   .founder-modal-content {

@@ -23,29 +23,29 @@ body {
 
 a,
 .la-ball-triangle-path {
-    color: #d2b356;
+    color:#0472FD;
 }
 
 a:hover,
 #header.nav-solid nav a:hover {
-    color: #d2b356;
+    color: #0472FD;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color: #d2b356;
+    color: #0472FD;
 }
 
 /* Border Color */
 
 #banner .section-heading:before,
 .testimonial.classic footer:before {
-    background: #d2b356;
+    background:#0472FD;
 }
 
 .pricing-block-content:hover {
-    border-color: #d2b356;
+    border-color:#0472FD;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -73,8 +73,8 @@ a:hover,
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #0472FD;
+    border-color: #0472FD;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -87,7 +87,7 @@ a:hover,
 
 .primary-color,
 .featured .pricing {
-    background-color: #d2b356;
+    background-color: #0472FD;
 }
 
 .primary-color,
@@ -99,7 +99,7 @@ a:hover,
 }
 
 .section-heading h2:after {
-    background: #d2b356;
+    background: #0472FD;
     content: "";
     display: block;
     width: 30px;
@@ -286,8 +286,8 @@ input[type="submit"] {
 
 .button:hover,
 input[type="submit"]:hover {
-    border-color: #d2b356;
-    color: #d2b356;
+    border-color: #0472FD;
+    color: #0472FD;
 }
 
 /* ----------Banner Buttons---------- */
@@ -309,8 +309,8 @@ input[type="submit"]:hover {
 /* Button Hover Color */
 
 #banner .button:hover {
-    color: #d2b356;
-    border-color: #d2b356;
+    color: #0472FD;
+    border-color: #0472FD;
 }
 
 /*------------------------------------------------------------------------------------------*/
